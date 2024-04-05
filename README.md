@@ -1,4 +1,4 @@
-### Hi there 👋
+Old GitHub account, most of my stuff has been migrated to [@FERR1TE](https://github.com/FERR1TE).
 
 <!--
 **resindrake/resindrake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
